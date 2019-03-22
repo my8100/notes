@@ -35,7 +35,7 @@ For example, it is likely that your media player runs multiple threads: one for 
 
 **You can think of the operating system as a container that holds multiple processes, where each process is a container that holds multiple threads.** In this article I will focus on threads only, but the whole topic is fascinating and deserves more in-depth analysis in the future.
 
-![Processes vs Threads](https://user-gold-cdn.xitu.io/2019/3/21/1699fb67e8bb3e9b?w=600&h=263&f=png&s=6112)
+![Processes vs Threads](https://user-gold-cdn.xitu.io/2019/3/22/169a55cf0651fd9b?w=600&h=263&f=png&s=6112)
 
 1\. Operating systems can be seen as a box that contains processes, which in turn contain one or more threads.
 
