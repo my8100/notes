@@ -1,5 +1,7 @@
 ## Programing
 [:book: A gentle introduction to multithreading](./programing/gentle-introduction-multithreading.md)
+- Asynchronous programming
+  - [:book: Blocking I/O and non-blocking I/O](./programing/asynchronous-programming-blocking-and-non-blocking.md)
 
 ## Back-End
 [:book: The Flask Mega-Tutorial](./back_end/the-flask-mega-tutorial.md)

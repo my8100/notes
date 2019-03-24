@@ -1,4 +1,4 @@
-### **:link: Source**: [https://blog.scrapinghub.com/web-scraping-gdpr-compliance-guide](https://blog.scrapinghub.com/web-scraping-gdpr-compliance-guide)
+**:link: Source**: [https://blog.scrapinghub.com/web-scraping-gdpr-compliance-guide](https://blog.scrapinghub.com/web-scraping-gdpr-compliance-guide)
 
 GDPR COMPLIANCE FOR WEB SCRAPERS: THE STEP-BY-STEP GUIDE
 ========================================================

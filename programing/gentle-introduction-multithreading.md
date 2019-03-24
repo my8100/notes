@@ -1,4 +1,4 @@
-### **:link: Source**: [https://www.internalpointers.com/post/gentle-introduction-multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
+**:link: Source**: [https://www.internalpointers.com/post/gentle-introduction-multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
 
 --- WRITTEN BY TRIANGLES ON MARCH 06, 2019 - UPDATED ON MARCH 10, 2019 - ID 71 ---
 
